@@ -1,0 +1,22 @@
+# Setup
+title:               Cryptoid - Pi Wars
+tagline:             'Jekyll blog for Cryptoid'
+description:         ''
+url:                 http://piwars.leedsraspjam.co.uk
+baseurl:             ''
+paginate:            10
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Leeds Raspberry Jam
+  url:               https://twitter.com/leedsraspjam
+  email:             hello@leedsraspjam.co.uk
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
