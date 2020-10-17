@@ -1,9 +1,9 @@
 # Setup
 title:               Cryptoid - Pi Wars
-tagline:             'Jekyll blog for Cryptoid'
+tagline:             ''
 description:         ''
 url:                 http://piwars.leedsraspjam.co.uk
-baseurl:             '/docs'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
