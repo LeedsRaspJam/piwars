@@ -3,7 +3,7 @@ title:               Cryptoid - Pi Wars
 tagline:             'Jekyll blog for Cryptoid'
 description:         ''
 url:                 http://piwars.leedsraspjam.co.uk
-baseurl:             '/docs/'
+baseurl:             '/docs'
 paginate:            5
 permalink:           pretty
 
